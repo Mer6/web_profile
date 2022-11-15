@@ -8,9 +8,11 @@
 	font-family: patrick hand;	
 }
 
-nav{
-	position: top;
+nav{background-color: #800080;
+
+
 }
+
 
 .gradient{
 	background-image: linear-gradient(to right top, #4d46bd, #4640b1, #3f3aa5, #39349a, #322e8e, #5d298b, #7b2485, #941f7c, #c82b6a, #e95252, #f6823a, #f0b32d);
@@ -58,10 +60,3 @@ div .card1{
 	flex-direction: column;
 }
 
-
-
-
-/*.star{
-	background-image: linear-gradient(to right bottom, #619aef, #c199e1, #f1a1c8, #ffb6b5, #fed0b5);
-	height: 500px;
-}*/
