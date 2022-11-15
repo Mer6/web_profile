@@ -8,10 +8,9 @@
 	font-family: patrick hand;	
 }
 
-/*body{
-	background-image: linear-gradient(to right top, #4d46bd, #4640b1, #3f3aa5, #39349a, #322e8e, #5d298b, #7b2485, #941f7c, #c82b6a, #e95252, #f6823a, #f0b32d);
-	background-repeat: no-repeat;
-}*/
+nav{
+	position: top;
+}
 
 .gradient{
 	background-image: linear-gradient(to right top, #4d46bd, #4640b1, #3f3aa5, #39349a, #322e8e, #5d298b, #7b2485, #941f7c, #c82b6a, #e95252, #f6823a, #f0b32d);
